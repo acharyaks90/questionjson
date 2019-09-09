@@ -39,7 +39,48 @@
                 "A component controls a patch of screen called a view",
                 "None"
             ]
+        },
+        {
+            "question": "The following are core modules and methods of angular?",
+            "answer": "3",
+            "options": [
+                "App, Module, Run, Extend, Load",
+                "Routing, Init, Service, Component, GUI",
+                "Router, Common, Forms, Http, Platform Browser",
+                "None"
+            ]
+        },
+        {
+            "question": "What is a component?",
+            "answer": "3",
+            "options": [
+                "A snippet of code to inject anywhere in the application",
+                "Containers for a cohesive block of code dedicated to an application domain, a workflow, or a closely related set of capabilities",
+                "A component controls a patch of screen called a view",
+                "None"
+            ]
+        },
+        {
+            "question": "What is private and public method or variables?",
+            "answer": "2",
+            "options": [
+                "It is type of variable for JavaScript",
+                "It is used internally for typescript to review the accessibility rules",
+                "Javascript functions that determine the use of variables",
+                "None"
+            ]
+        },
+        {
+            "question": "What is service in angular?",
+            "answer": "1",
+            "options": [
+                "A broad category encompassing any value, function or feature that an app needs",
+                "An HTTP request to pull data",
+                "A method where you can save data",
+                "None"
+            ]
         }
+
     ]
 
     }
