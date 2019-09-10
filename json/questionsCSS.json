@@ -2,7 +2,7 @@
   "TEST": [
     {
       "question": "What is Flexbox?",
-      "answer": "3",
+      "answer": "2",
       "options": [
         "A Tag HTML",
         "a HTML alignment",
@@ -12,7 +12,7 @@
     },
     {
       "question": "Which is the purpose of translate property on CSS3?",
-      "answer": "3",
+      "answer": "2",
       "options": [
         "It is not a CSS property",
         "It is for translate texts",
