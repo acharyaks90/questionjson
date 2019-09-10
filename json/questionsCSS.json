@@ -1,0 +1,26 @@
+{
+    "TEST": [
+        {
+            "question": "What is Flexbox?",
+            "answer": "3",
+            "options": [
+                "A Tag HTML",
+                "a HTML alignment",
+                "A layout specification for css",
+                "A HTML attribute"
+            ]
+        },
+        {
+            "question": "Which is the purpose of translate property on CSS3?",
+            "answer": "3",
+            "options": [
+                "It is not a CSS property",
+                "It is for translate texts",
+                "It is to reposition an element in horizontal and veritical direction",
+                "None"
+            ]
+        },
+       
+    ]
+
+    }
