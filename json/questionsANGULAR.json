@@ -2,7 +2,7 @@
     "TEST": [
         {
             "question": "What is Component?",
-            "answer": "1",
+            "answer": "0",
             "options": [
                 "Directive",
                 "Module",
@@ -12,7 +12,7 @@
         },
         {
             "question": "Which is Two way binding?",
-            "answer": "1",
+            "answer": "0",
             "options": [
                 "[()]",
                 "[]",
@@ -22,7 +22,7 @@
         },
         {
             "question": "Which is the purpose of CLI of Angular?",
-            "answer": "2",
+            "answer": "1",
             "options": [
                 "A guide to write angular apps",
                 "Command line tool of create, run and build Angular apps",
@@ -32,7 +32,7 @@
         },
         {
             "question": "Which is Module?",
-            "answer": "2",
+            "answer": "1",
             "options": [
                 "A snippet of code to inject anywhere in the application",
                 "Containers for a cohesive block of code dedicated to an application domain, a workflow, or a closely related set of capabilities",
@@ -42,7 +42,7 @@
         },
         {
             "question": "The following are core modules and methods of angular?",
-            "answer": "3",
+            "answer": "2",
             "options": [
                 "App, Module, Run, Extend, Load",
                 "Routing, Init, Service, Component, GUI",
@@ -52,7 +52,7 @@
         },
         {
             "question": "What is a component?",
-            "answer": "3",
+            "answer": "2",
             "options": [
                 "A snippet of code to inject anywhere in the application",
                 "Containers for a cohesive block of code dedicated to an application domain, a workflow, or a closely related set of capabilities",
@@ -62,7 +62,7 @@
         },
         {
             "question": "What is private and public method or variables?",
-            "answer": "2",
+            "answer": "1",
             "options": [
                 "It is type of variable for JavaScript",
                 "It is used internally for typescript to review the accessibility rules",
@@ -72,7 +72,7 @@
         },
         {
             "question": "What is service in angular?",
-            "answer": "1",
+            "answer": "0",
             "options": [
                 "A broad category encompassing any value, function or feature that an app needs",
                 "An HTTP request to pull data",
