@@ -1,0 +1,64 @@
+{
+    "TEST": [
+        {
+            "question": "Which attribute should have a tag in order to show a title tooltip as default?",
+            "answer": "1",
+            "options": [
+                "It is not possible, you have to use JS",
+                "Title attribute",
+                "Tooltip attribute",
+                "Name attribute"
+            ]
+        },
+        {
+            "question": "What is difference between ul and ol?",
+            "answer": "0",
+            "options": [
+                "OL element is a numbered list and UL is a list of points",
+                "It is the same behavior",
+                "None of these is a list",
+                "UL element is a numbered list and ol is list of points "
+            ]
+        },
+        {
+            "question": "What is block element?",
+            "answer": "2",
+            "options": [
+                "An Element that a specific size",
+                "A divisor element",
+                "A HTML element that occupies 100% of the hieght ot its container",
+                "A HTML element that occupies 100% of the width ot its container"
+            ]
+        },
+        {
+            "question": "Name three new tag from HTML5 that different from canvas?",
+            "answer": "1",
+            "options": [
+                "div, img, ul",
+                "Aside, figure, h1",
+                "Article aside and nav",
+                "Header, div, a"
+            ]
+        },
+        {
+            "question": "What is purpose of run method on Angular?",
+            "answer": "0",
+            "options": [
+                "It is executed after the injector is created and are used to kickstart the application",
+                "It's to extend the logic of each controller",
+                "It's a method to load any data",
+                "None"
+            ]
+        },
+        {
+            "question": "What is scope?",
+            "answer": "0",
+            "options": [
+                "A angular function to create methods",
+                "A controller to be used in a component",
+                "A build in object, which contains application data and methods",
+                "None"
+            ]
+        }
+    ]
+}
