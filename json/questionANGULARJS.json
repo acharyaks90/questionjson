@@ -1,0 +1,64 @@
+{
+    "TEST": [
+        {
+            "question": "What is directive?",
+            "answer": "2",
+            "options": [
+                "HTML to be Injected into other HTML",
+                "An Auxiliary HTML code to connect with a controller",
+                "A function that execute when the Angular compiler finds it in DOM",
+                "None"
+            ]
+        },
+        {
+            "question": "What is difference between ng-if and ng-show?",
+            "answer": "2",
+            "options": [
+                "The behvior is same",
+                "The ng-if is execute once the value exits and the ng-show is executed in background",
+                "ng-if is directive and ng-show is an alias",
+                "None"
+            ]
+        },
+        {
+            "question": "What are the restrict type of AngularJS Directive?",
+            "answer": "2",
+            "options": [
+                "A, E, C and M",
+                "A,B,E and S",
+                "A, N, D and T",
+                "None"
+            ]
+        },
+        {
+            "question": "The following are 5 native directive of Angular?",
+            "answer": "1",
+            "options": [
+                "ng-control, ng-form, ng-event, ng-init, ng-bind",
+                "ng-click, ng-controller, ng-show, ng-class, ng-attr",
+                "ng-app, ,ng-load, ng-add, ng-init, ng-submit",
+                "None"
+            ]
+        },
+        {
+            "question": "What is purpose of run method on Angular?",
+            "answer": "0",
+            "options": [
+                "It is executed after the injector is created and are used to kickstart the application",
+                "It's to extend the logic of each controller",
+                "It's a method to load any data",
+                "None"
+            ]
+        },
+        {
+            "question": "What is scope?",
+            "answer": "0",
+            "options": [
+                "A angular function to create methods",
+                "A controller to be used in a component",
+                "A build in object, which contains application data and methods",
+                "None"
+            ]
+        }
+    ]
+}
