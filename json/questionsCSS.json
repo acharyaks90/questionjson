@@ -1,24 +1,80 @@
 {
-  "TEST": [
-    {
-      "question": "What is Flexbox?",
-      "answer": "2",
-      "options": [
-        "A Tag HTML",
-        "a HTML alignment",
-        "A layout specification for css",
-        "A HTML attribute"
-      ]
-    },
-    {
-      "question": "Which is the purpose of translate property on CSS3?",
-      "answer": "2",
-      "options": [
-        "It is not a CSS property",
-        "It is for translate texts",
-        "It is to reposition an element in horizontal and veritical direction",
-        "None"
-      ]
-    }
-  ]
+    "TEST": [
+        {
+            "question": "What is Flexbox?",
+            "answer": "2",
+            "options": [
+                "A Tag HTML",
+                "a HTML alignment",
+                "A layout specification for css",
+                "A HTML attribute"
+            ]
+        },
+        {
+            "question": "Which is the purpose of translate property on CSS3?",
+            "answer": "2",
+            "options": [
+                "It is not a CSS property",
+                "It is for translate texts",
+                "It is to reposition an element in horizontal and veritical direction",
+                "None"
+            ]
+        },
+        {
+            "question": " What mean of the a in RGBa?",
+            "answer": "1",
+            "options": [
+                "alpha",
+                "alpha color",
+                "arrow",
+                "any"
+            ]
+        },
+        {
+            "question": "Can you set multiple box-shadows?",
+            "answer": "1",
+            "options": [
+                "Yes",
+                "No"
+            ]
+        },
+        {
+            "question": "How do four values work on padding",
+            "answer": "3",
+            "options": [
+                "top, bottom, left, right",
+                "up, down, front, behind",
+                "top, right, bottom, left",
+                "left, right, right, left"
+            ]
+        },
+        {
+            "question": "Which of the following property is used to underline color change.",
+            "answer": "2",
+            "options": [
+                "text-decoration",
+                "text-decoration-color",
+                "text-decoration-style",
+                "text-decoration-line"
+            ]
+        },
+        {
+            "question": "Can we set the float center?",
+            "answer": "2",
+            "options": [
+                "Yes",
+                "No"
+            ]
+        },
+        {
+            "question": "In CSS, what is the correct option to select only the heading with class name 'success'?",
+            "answer": "2",
+            "options": [
+                "#success { }",
+                ".success { }",
+                "success { }",
+                ".class success {}"
+            ]
+        }
+    ]
 }
