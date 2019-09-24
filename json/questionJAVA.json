@@ -1,0 +1,54 @@
+{
+    "TEST": [
+        {
+            "question": "Which one of these lists contains only Java programming language keywords?",
+            "answer": "1",
+            "options": [
+                "class, if, void, long, Int, continue",
+                "goto, instanceof, native, finally, default, throws",
+                "strictfp, constant, super, implements, do",
+                "byte, break, assert, switch, include"
+            ]
+        },
+        {
+            "question": "Which will legally declare, construct, and initialize an array?",
+            "answer": "3",
+            "options": [
+                "int [] myList = {\"1\", \"2\", \"3\"};",
+                "int [] myList = (5, 8, 2);",
+                "int myList [] [] = {4,9,7,0};",
+                "int myList [] = {4, 3, 7};"
+            ]
+        },
+        {
+            "question": "Which is a reserved word in the Java programming language?",
+            "answer": "1",
+            "options": [
+                "array",
+                "native",
+                "subclasses",
+                "reference"
+            ]
+        },
+        {
+            "question": "Which is a valid keyword in java?",
+            "answer": "0",
+            "options": [
+                "interface",
+                "string",
+                "Float",
+                "unsigned"
+            ]
+        },
+        {
+            "question": "Which is the valid declarations within an interface definition?",
+            "answer": "0",
+            "options": [
+                "public double methoda();",
+                "public final double methoda();",
+                "static void methoda(double d1);",
+                "protected void methoda(double d1);one"
+            ]
+        }
+    ]
+}
