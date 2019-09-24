@@ -1,1 +1,55 @@
 
+{
+    "TEST": [
+        {
+            "question": "How can add a row using SQL in a database ?",
+            "answer": "2",
+            "options": [
+                "ADD",
+                "CREATE",
+                "INSERT",
+                "MAKE"
+            ]
+        },
+        {
+            "question": "The command to remove rows from a table 'QUESTIONS' is?",
+            "answer": "2",
+            "options": [
+                "REMOVE FROM QUESTIONS",
+                "DROP FROM QUESTIONS",
+                "DELETE FROM QUESTIONS WHERE ..",
+                "UPDATE FROM QUESTIONS"
+            ]
+        },
+        {
+            "question": "The SQL WHERE clause:?",
+            "answer": "1",
+            "options": [
+                "limits the column data that are returned",
+                "limits the row data are returned.",
+                "Both A and B are correct.",
+                "Neither A nor B are correct."
+            ]
+        },
+        {
+            "question": "Which of the following is the original purpose of SQL?",
+            "answer": "3",
+            "options": [
+                "To specify the syntax and semantics of SQL data definition language",
+                "To specify the syntax and semantics of SQL manipulation language",
+                "To define the data structures",
+                "All of above"
+            ]
+        },
+        {
+            "question": "A view is which of the following?",
+            "answer": "0",
+            "options": [
+                "A virtual table that can be accessed via SQL commands",
+                "A virtual table that cannot be accessed via SQL commands",
+                "A base table that can be accessed via SQL commands",
+                "A base table that cannot be accessed via SQL commands"
+            ]
+        }
+    ]
+}
