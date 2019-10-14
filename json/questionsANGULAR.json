@@ -79,7 +79,18 @@
                 "A method where you can save data",
                 "None"
             ]
+        },
+        {
+            "question": "What is difference in touched and dirty?",
+            "answer": "0",
+            "options": [
+                "No Difference both are same",
+                "touched is works on template form and dirty works on reactive form",
+                "touched become true is field is focused and dirty if we left that",
+                "dirty become true is field is focused and touched if we left that"
+            ]
         }
+
 
     ]
 
