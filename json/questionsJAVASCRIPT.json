@@ -19,6 +19,16 @@
                 "function",
                 "string"
             ]
+        },
+        {
+            "question": "'iPariksha is the practical Pariskha. Ipariksha is more Pariksha'.replace('Pariksha','test') output string will be",
+            "answer": "1",
+            "options": [
+                "'itest is the practical test. Ipariksha is more test'",
+                "'itest is the practical test. Itest is more test'",
+                "'itest is the practical Pariskha. Ipariksha is more Pariksha'",
+                "'iPariksha is the practical test. Ipariksha is more test'"
+            ]
         }
     ]
 
